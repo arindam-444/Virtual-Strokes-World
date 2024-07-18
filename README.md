@@ -7,7 +7,7 @@ canvas. The application provides a user-friendly interface where users can
 select different colors and brush sizes, enabling them to draw with ease and
 precision.
 
-Algorithm :
+# Algorithm :
 
 Start reading the frames and convert the captured frames to HSV colour space.(Easy for colour detection)
 Prepare the canvas frame and put the respective ink buttons on it.
