@@ -15,6 +15,7 @@ Adjust the values of teh mediapipe intilization to detect one hand only.
 Detect teh landmarks by passing the RGB frame to the mediapipe hand detector
 Detect the landmarks, find the forefinger coordinates and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
 Finally draw the points stored in array on the frames and canvas .
+
 Requirements: python3 , numpy , opencv, mediapipe installed on your system.
 
 ![WhatsApp Image 2024-07-18 at 20 51 25_5f60226d](https://github.com/user-attachments/assets/8c52e95c-1478-4518-a654-ae2606cfd25f)
